@@ -1,0 +1,29 @@
+body{
+     text-align: center;
+}
+
+.searchEngine{
+     margin: 50px 0px 20px 0px;
+     font-size: 38px;
+}
+
+button{
+    background-color:blue;
+    color:white;
+    padding:8px 16px;
+    margin: 2px 4px;
+    cursor: pointer;
+}
+
+input[type=text]{
+    border: 2px solid black;
+    border-radius:4px;
+    width: 30%;
+    padding: 8px 16px;
+}
+
+.resultTable{
+    display: inline-block;
+    padding: 30px 400px;
+    margin: auto;
+}
